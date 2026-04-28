@@ -12,6 +12,3 @@ We provide bioinformatics expertise and computational support to researchers at 
 - 📊 Statistical analysis and data visualization
 - 💻 Pipeline development and workflow automation
 
-## Contact
-
-For inquiries or collaboration, please reach out through the [CABD website](https://www.cabd.es/) or open an issue in the relevant repository.
